@@ -1,10 +1,10 @@
 {
   "name": "node-architect-error-handler",
-    "version": "0.0.1",
-    "main": "index.js",
-    "scripts": {
-        "test": "make test-coveralls"
-    },
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test-coveralls"
+  },
   "plugin": {
     "consumes": [
       "log"
@@ -24,5 +24,23 @@
     "airbrake": "^0.3.8",
     "node-architect-log": "0.0.1",
     "proxyquire": "^1.3.1"
-  }
+  },
+  "description": "Node Architect Error Handler ====================",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tdfairbrother/node-architect-error-handler.git"
+  },
+  "keywords": [
+    "architect",
+    "airbrake"
+  ],
+  "author": "Tim Fairbrother <tdfairbrother@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdfairbrother/node-architect-error-handler/issues"
+  },
+  "homepage": "https://github.com/tdfairbrother/node-architect-error-handler"
 }
