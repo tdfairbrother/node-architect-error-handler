@@ -1,7 +1,7 @@
 Node Architect Error Handler
 ====================
 
-[![Build Status](https://travis-ci.org/tdfairbrother/node-architect-error-handler.svg)](https://travis-ci.org/tdfairbrother/node-architect-error-handler)
+[![Build Status](https://semaphoreapp.com/api/v1/projects/eafc26d0-b678-437d-85e7-04a736258a83/359588/badge.png)](https://semaphoreapp.com/tdfairbrother/node-architect-error-handler)
 
 [![Coverage Status](https://coveralls.io/repos/tdfairbrother/node-architect-error-handler/badge.svg)](https://coveralls.io/r/tdfairbrother/node-architect-error-handler)
 
